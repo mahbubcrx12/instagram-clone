@@ -77,7 +77,7 @@ class _LoginPageState extends State<LoginPage> {
               TextFieldInput(
                   textInputType: TextInputType.text,
                   textEditingController: _passwordController,
-                  hinText: "Enter your email",
+                  hinText: "Password",
                   isPass: true ,
               ),
               SizedBox(height: 24,),
